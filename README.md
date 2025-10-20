@@ -40,12 +40,6 @@ This build combines the structural reliability of the UnLimbited Arm with the fu
 
 ---
 
-## Optional Electronics 
-Section `Electronics/`is reserved for future experiments (e.g., servo or sensor integration).  
-The current build is a passive, body-powered model.
-
----
-
 ## Bill of Materials
 See `BOM/bom.csv` for a complete list of printed parts, fasteners, elastics, and optional electronics.
 
