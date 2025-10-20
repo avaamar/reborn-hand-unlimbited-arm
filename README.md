@@ -46,15 +46,6 @@ The current build is a passive, body-powered model.
 
 ---
 
-## Validation Summary
-- Range of motion and grip patterns tested against the validated prototype.  
-- Static and cyclic load checks performed on fingers and palm hinges.  
-- Comfort feedback collected from the recipient (Manon Smesman).
-
-Results and photos available in `Validation/` and `Photos/`.
-
----
-
 ## Bill of Materials
 See `BOM/bom.csv` for a complete list of printed parts, fasteners, elastics, and optional electronics.
 
