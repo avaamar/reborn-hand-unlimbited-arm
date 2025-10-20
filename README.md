@@ -40,8 +40,8 @@ This build combines the structural reliability of the UnLimbited Arm with the fu
 
 ---
 
-## Optional Electronics / Firmware
-Sections `Electronics/` and `Firmware/` are reserved for future experiments (e.g., servo or sensor integration).  
+## Optional Electronics 
+Section `Electronics/`is reserved for future experiments (e.g., servo or sensor integration).  
 The current build is a passive, body-powered model.
 
 ---
